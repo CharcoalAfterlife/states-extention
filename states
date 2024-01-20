@@ -237,3 +237,5 @@
 
     Scratch.extensions.register(new Extension());
 })(Scratch);
+
+This is the end but dont put this here
